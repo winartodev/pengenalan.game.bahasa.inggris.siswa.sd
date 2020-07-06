@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0c7e78e7882c9a647a487b7580a12d44
+  - enabled: 1
+    path: Assets/Scenes/Learn.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MultipleChoise.unity
+    guid: 644c05dd04895614caa6492736144caa
+  - enabled: 1
+    path: Assets/Scenes/InGameMenu.unity
+    guid: 4631ef70d4abf0646a9c4cfa253edd7c
+  - enabled: 1
+    path: Assets/Scenes/MatchingQuiz.unity
+    guid: c0ec8a01199d1d240aab528df15e4d1c
+  m_configObjects: {}
